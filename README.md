@@ -1,0 +1,1 @@
+This is an interactive Augmented Reality Campus Tour built using 8th Wall (WebAR, A-Frame). The application can run on mobile browsers.
